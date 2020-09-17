@@ -9,5 +9,5 @@ Faça um programa que exiba uma `letra de música a sua escolha`. Utilize cores 
  Acesse a pasta do projeto e digite:
 
 ```
-dotnet run
+dotnet runs
 ```
